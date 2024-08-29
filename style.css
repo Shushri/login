@@ -1,0 +1,30 @@
+.pass{
+    color: blue;
+}
+#para1{
+    text-align: center;
+}
+.d1{
+    padding: 30px;
+    text-align: center;
+    border:  2px;
+}
+.div2{
+    
+    padding: 15px;
+    padding-top: 100px;
+    text-align: center;
+    border: solid 2px;
+    border-radius: 25%;
+    background-color: purple;
+    color: white;
+}
+.container{
+    display: flex;
+}
+i{
+    border: solid 2px;
+    border-radius: 20%;
+    margin: 15px;
+    padding: 5px;
+}
