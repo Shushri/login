@@ -5,9 +5,13 @@
     text-align: center;
 }
 .d1{
-    padding: 30px;
+    padding: 15px;
+    padding-top: 100px;
     text-align: center;
-    border:  2px;
+    border: solid 2px;
+    border-radius: 12%;
+    background-color: rgb(163, 156, 146);
+    color: white;
 }
 .div2{
     
@@ -15,12 +19,13 @@
     padding-top: 100px;
     text-align: center;
     border: solid 2px;
-    border-radius: 25%;
+    border-radius: 12%;
     background-color: purple;
     color: white;
 }
 .container{
     display: flex;
+    
 }
 i{
     border: solid 2px;
